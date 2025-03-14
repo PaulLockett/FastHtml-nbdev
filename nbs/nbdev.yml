@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "FastHtml-nbdev"
+  site-url: "https://PaulLockett.github.io/FastHtml-nbdev"
+  description: "A FastHtml starter kit build for development via nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/PaulLockett/FastHtml-nbdev"
