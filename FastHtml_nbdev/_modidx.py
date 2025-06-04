@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://PaulLockett.github.io',
                 'git_url': 'https://github.com/PaulLockett/FastHtml-nbdev',
                 'lib_path': 'FastHtml_nbdev'},
-  'syms': {'FastHtml_nbdev.core': {'FastHtml_nbdev.core.foo': ('core.html#foo', 'FastHtml_nbdev/core.py')}}}
+  'syms': { 'FastHtml_nbdev.FastHTML': {'FastHtml_nbdev.FastHTML.say_hello': ('core.html#say_hello', 'FastHtml_nbdev/FastHTML.py')},
+            'FastHtml_nbdev.core': {'FastHtml_nbdev.core.foo': ('core.html#foo', 'FastHtml_nbdev/core.py')}}}
